@@ -37,7 +37,6 @@ Month+1 retention is the share of new customers who order again the next month. 
 
 ## Caveats
 
-- I wrote both the rules and the answers I checked against. Someone else might spot gaps that I cannot.
 - Some of the 10 questions are easy, such as counting orders from one table. The harder ones are the real test: joining several tables, retention by city and channel, and the experiment result.
 - I ran only 3 of the 10 questions a second time. All 3 gave the same answer.
 - The data is synthetic. Business conclusions about Swish are not real findings.
